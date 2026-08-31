@@ -1,5 +1,12 @@
 # Changelog / 更新日志
 
+## 0.1.1 - 2026-08-31
+
+### Fixed / 修复
+
+- Fixed a crash when Touhou Little Maid checks a null block entity while binding a Sophisticated container with Wireless IO.
+- 修复 Touhou Little Maid 使用隙间绑定 Sophisticated 容器时，遇到空方块实体导致崩溃的问题。
+
 ## 0.1.0 - 2026-08-30
 
 ### Added / 新增

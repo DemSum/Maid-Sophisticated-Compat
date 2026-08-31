@@ -43,6 +43,10 @@ public final class SophisticatedChestType implements IChestType {
     }
 
     private static boolean isSophisticatedBlockEntity(BlockEntity chest) {
+        if (chest == null) {
+            return false;
+        }
+
         String className = chest.getClass().getName();
         return className.startsWith(STORAGE_PACKAGE) || className.startsWith(BACKPACKS_PACKAGE);
     }
