@@ -28,7 +28,7 @@ repositories {
 }
 
 base {
-    archivesName = mod_id
+    archivesName = "${mod_id}-mc${minecraft_version}-neoforge"
 }
 
 // Include the project license in the distributable jar.
