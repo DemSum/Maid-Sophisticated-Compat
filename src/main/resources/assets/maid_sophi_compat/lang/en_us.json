@@ -1,0 +1,14 @@
+{
+  "item.maid_sophi_compat.wireless_io_exp": "§aGap of Experience",
+  "gui.maid_sophi_compat.wireless_io_exp.mode.maid_to_container": "Maid -> Container",
+  "gui.maid_sophi_compat.wireless_io_exp.mode.container_to_maid": "Container -> Maid",
+  "gui.maid_sophi_compat.wireless_io_exp.retain_level": "Retained Maid Level",
+  "gui.maid_sophi_compat.wireless_io_exp.retain_level.short": "Keep Lv.",
+  "tooltip.maid_sophi_compat.wireless_io_exp.mode.maid_to_container": "Mode: Maid -> Container",
+  "tooltip.maid_sophi_compat.wireless_io_exp.mode.container_to_maid": "Mode: Container -> Maid",
+  "tooltip.maid_sophi_compat.wireless_io_exp.retain_level": "Retained maid level: %s",
+  "tooltip.maid_sophi_compat.wireless_io_exp.binding.has": "Bound position: %s, %s, %s",
+  "tooltip.maid_sophi_compat.wireless_io_exp.binding.none": "Unbound experience container",
+  "tooltip.maid_sophi_compat.wireless_io_exp.usage.1": "A maid equipped with this bauble can transfer experience to or from a compatible container.",
+  "tooltip.maid_sophi_compat.wireless_io_exp.usage.2": "Sneak-right-click a container to bind; right-click air to configure."
+}

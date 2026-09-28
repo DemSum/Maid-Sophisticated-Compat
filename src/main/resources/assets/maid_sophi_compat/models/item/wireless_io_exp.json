@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "maid_sophi_compat:item/wireless_io_exp"
+  }
+}

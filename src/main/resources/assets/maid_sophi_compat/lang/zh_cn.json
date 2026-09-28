@@ -1,0 +1,14 @@
+{
+  "item.maid_sophi_compat.wireless_io_exp": "§a经验隙间",
+  "gui.maid_sophi_compat.wireless_io_exp.mode.maid_to_container": "女仆 -> 容器",
+  "gui.maid_sophi_compat.wireless_io_exp.mode.container_to_maid": "容器 -> 女仆",
+  "gui.maid_sophi_compat.wireless_io_exp.retain_level": "女仆保留等级",
+  "gui.maid_sophi_compat.wireless_io_exp.retain_level.short": "保留等级",
+  "tooltip.maid_sophi_compat.wireless_io_exp.mode.maid_to_container": "模式：女仆 -> 容器",
+  "tooltip.maid_sophi_compat.wireless_io_exp.mode.container_to_maid": "模式：容器 -> 女仆",
+  "tooltip.maid_sophi_compat.wireless_io_exp.retain_level": "女仆保留等级：%s",
+  "tooltip.maid_sophi_compat.wireless_io_exp.binding.has": "绑定坐标：%s，%s，%s",
+  "tooltip.maid_sophi_compat.wireless_io_exp.binding.none": "未绑定经验容器",
+  "tooltip.maid_sophi_compat.wireless_io_exp.usage.1": "装备此饰品的女仆可以向兼容容器存入经验或从中取出经验。",
+  "tooltip.maid_sophi_compat.wireless_io_exp.usage.2": "潜行右击容器进行绑定；右击空气打开设置。"
+}
